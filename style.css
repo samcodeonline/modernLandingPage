@@ -58,7 +58,9 @@ img{
 
 .text h1{
     top: 100px;
-    color: rgb(152, 39, 39) !important;
+    background: -webkit-linear-gradient(#eee, #333);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
     font-size: 4vw;
     position: absolute;
 }
