@@ -1,2 +1,2 @@
 # ModernWebDevelopment.
- landingPage using advance animations using gsap
+ landingPage with animations using GSAP
